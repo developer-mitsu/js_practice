@@ -34,7 +34,7 @@ JavaScript質問チャンネルにて質問して下さい。
 ```js
 fgrggrgrg
 ```
-<details>
+</details>
 
 
 **問題2**
